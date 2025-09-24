@@ -9,7 +9,9 @@ Model Context Protocol
 
 ## Original MCP Documentations
 
-⭐[Example Servers](https://modelcontextprotocol.io/examples)
+⭐[MCP Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
+
+⭐[Archived Example Servers](https://modelcontextprotocol.io/examples)
 
 ⭐[Example Clients](https://modelcontextprotocol.io/clients)
 
