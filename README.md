@@ -13,6 +13,6 @@ Model Context Protocol
 
 ⭐[Example Clients](https://modelcontextprotocol.io/clients)
 
-⭐[Build an MCP server](https://modelcontextprotocol.io/docs/develop/build-client)
+⭐[Build an MCP server](https://modelcontextprotocol.io/docs/develop/build-server)
 
 ⭐[Build an MCP client](https://modelcontextprotocol.io/docs/develop/build-client)
